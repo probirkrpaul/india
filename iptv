@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,alliptvlinks.com VIP IN: ABP ANANDA
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564
 #EXTINF:-1,alliptvlinks.com ZEE NEWS   (NA)     (IN)
 http://46.166.148.101:8000/002bF1URlCgfqeBrZ/64fcF1U7QUN4MV0uo/59809
 #EXTINF:-1,alliptvlinks.com AAJTAK   (IN)
@@ -17,6 +19,35 @@ http://46.166.148.101:8000/002bF1URlCgfqeBrZ/64fcF1U7QUN4MV0uo/6903
 http://46.166.148.101:8000/002bF1URlCgfqeBrZ/64fcF1U7QUN4MV0uo/1189
 #EXTINF:-1,alliptvlinks.com MTV   (IN)
 http://46.166.148.101:8000/002bF1URlCgfqeBrZ/64fcF1U7QUN4MV0uo/3840
+#EXTINF:-1,alliptvlinks.com VIP IN: ANIMAL PLANET HINDI-1
+http://basic-iptvesun.com:8080/11/11/34481
+#EXTINF:-1,alliptvlinks.com VIP IN: CARTOON NETWORK
+http://basic-iptvesun.com:8080/11/11/34184
+#EXTINF:-1,alliptvlinks.com VIP IN: Cartoon network HD
+http://basic-iptvesun.com:8080/11/11/8121
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY CHANNEL ENG
+http://basic-iptvesun.com:8080/11/11/34519
+#EXTINF:-1,alliptvlinks.com VIP IN: Discovery HD
+http://basic-iptvesun.com:8080/11/11/26061
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY JEET
+http://basic-iptvesun.com:8080/11/11/34482
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY JEET HD
+http://basic-iptvesun.com:8080/11/11/34485
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY KIDS HINDI
+http://basic-iptvesun.com:8080/11/11/34483
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY SCIENCE
+http://basic-iptvesun.com:8080/11/11/34484
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY WORLD IN HD
+http://basic-iptvesun.com:8080/11/11/26063
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY TURBO
+http://basic-iptvesun.com:8080/11/11/26062
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY TURBO ENG
+http://basic-iptvesun.com:8080/11/11/34467
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY WORLD
+http://basic-iptvesun.com:8080/11/11/26064
+#EXTINF:-1,alliptvlinks.com VIP IN: DISCOVERY WORLD HD
+http://basic-iptvesun.com:8080/11/11/34468
+
 #EXTINF:-1,alliptvlinks.com NDTV 24X7   (IN)
 http://46.166.148.101:8000/002bF1URlCgfqeBrZ/64fcF1U7QUN4MV0uo/3870
 #EXTINF:-1,alliptvlinks.com NDTV GOODTIMES   (IN)
