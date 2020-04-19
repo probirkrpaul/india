@@ -209,20 +209,8 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
-#EXTINF:0, group-title="Movies",MOVIES NOW
-#EXTINF:0, group-title="Movies",MOVIES NOW + HD
-#EXTINF:0, group-title="Movies",STAR MOVIES SELECT HD
-#EXTINF:0, group-title="Movies",MOVIES NOW HD
-#EXTINF:0, group-title="Movies",ROMEDY NOW
-#EXTINF:0, group-title="Movies",ROMEDY NOW HD
-#EXTINF:0, group-title="Movies",ZEE STUDIO
-#EXTINF:0, group-title="Movies",ZEE STUDIO HD
-#EXTINF:0, group-title="Movies",WB
-#EXTINF:0, group-title="Movies",STAR MOVIES ACTION
-#EXTINF:0, group-title="Movies",MOVIES NOW 2
-#EXTINF:0, group-title="Movies",MOVIES NOW 2 HD
-#EXTINF:0, group-title="Movies",LEPLEX HD
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:0, group-title="Kids",POGO
+https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
 
 
 
