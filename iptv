@@ -110,7 +110,9 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="India Today-IN" tvg-name="India Today-IN" tvg-language="English" tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1,BANGLADESH CHANNEL BELOW :
+#EXTINF:-1,BANGLADESH CHANNEL BELOW
+http://mu03.amzlive.net:8880/
+
 #EXTINF:-1,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1,ATN News
@@ -145,7 +147,8 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-#EXTINF:-1, WORLD CHANNEL BELOW :
+#EXTINF:-1, WORLD CHANNEL BELOW
+http://mu03.amzlive.net:8880/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg" tvg-country="JM" tvg-url="" group-title="Jamaica",SportsMax
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
@@ -177,10 +180,23 @@ http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b47000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="Germany",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
+#EXTINF:-1,alliptvlinks.com HBO   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15574.ts
+
+#EXTINF:-1,alliptvlinks.com HBO 2   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15575.ts
+
+#EXTINF:-1,alliptvlinks.com HBO SIGNATURE   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15579.ts
+
+#EXTINF:-1,alliptvlinks.com NBA TV USA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 
 
-#EXTINF:-1, ADULT CHANNEL BELOW :
+#EXTINF:-1, ADULT CHANNEL BELOW
+http://mu03.amzlive.net:8880/
+
 #EXTINF:-1,+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Blacked FullHD
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1588
 #EXTINF:-1,+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler Europe FullHD
@@ -203,19 +219,12 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
 
-#EXTINF:-1,alliptvlinks.com US: ESPN
-http://basic-iptvesun.com:8080/100/100/872
-#EXTINF:-1,alliptvlinks.com US: ESPN 2 HD
-http://basic-iptvesun.com:8080/100/100/5386
-#EXTINF:-1,alliptvlinks.com US: WWE HD
-http://basic-iptvesun.com:8080/100/100/5184
-#EXTINF:-1,alliptvlinks.com HBO   (usa)
-http://tv.iptv5latino.cl:8000/live/Angela/1234/15574.ts
-#EXTINF:-1,alliptvlinks.com HBO 2   (usa)
-http://tv.iptv5latino.cl:8000/live/Angela/1234/15575.ts
-#EXTINF:-1,alliptvlinks.com HBO SIGNATURE   (usa)
-http://tv.iptv5latino.cl:8000/live/Angela/1234/15579.ts
-#EXTINF:-1,alliptvlinks.com NBA TV USA
-http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
-
+#EXTINF:-1,alliptvlinks.com USA | CARTOON NETWORK
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/32692
+#EXTINF:-1,alliptvlinks.com USA | DISNEY CHANNEL
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/32701
+#EXTINF:-1,alliptvlinks.com USA | DISNEY XD
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/22951
+#EXTINF:-1,alliptvlinks.com USA:-----|MOVIES|---------------------------------
+http://mu03.amzlive.net:8880/antest110/98562312/60608
