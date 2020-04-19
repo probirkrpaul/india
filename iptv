@@ -44,12 +44,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/TCF8nBO.jpg" tvg-country="IN" tvg-url="" group-title="",Hungama Digital Network
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 
-#EXTINF:-1 tvg-id="HSN  - Home Shopping Network-US" tvg-name="HSN  - Home Shopping Network-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="United States",HSN
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mjiGvk8.png" tvg-country="US" tvg-url="" group-title="United States",KTVB
-http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="IN" tvg-url="" group-title="India",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
@@ -76,6 +70,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="United States",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="" group-title="Ukraine",NICK JR
+http://213.174.8.7:9100/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GylvfMQ.png" tvg-country="IN" tvg-url="" group-title="Movies",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -206,4 +203,46 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
 
+#EXTINF:-1,US: ESPN 1
+http://hd.vizontele.eu:80/lutfi/27042018/1651
+#EXTINF:-1,US: ESPN 2 HD
+http://hd.vizontele.eu:80/lutfi/27042018/1650
+#EXTINF:-1,US: ESPN 3 HD
+http://hd.vizontele.eu:80/lutfi/27042018/1649
+#EXTINF:-1,US: Hallmark Channel HD
+http://hd.vizontele.eu:80/lutfi/27042018/1605
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+http://hd.vizontele.eu:80/lutfi/27042018/1604
+#EXTINF:-1,US: HBO Comedy HD
+http://hd.vizontele.eu:80/lutfi/27042018/1617
+#EXTINF:-1,US: HBO HD
+http://hd.vizontele.eu:80/lutfi/27042018/1618
+#EXTINF:-1,US: HBO Signature
+http://hd.vizontele.eu:80/lutfi/27042018/1616
+#EXTINF:-1,US: HBO Zone HD
+http://hd.vizontele.eu:80/lutfi/27042018/1615
+#EXTINF:-1,US: HGTV FHD
+http://hd.vizontele.eu:80/lutfi/27042018/1560
+#EXTINF:-1,US: HLN HD
+http://hd.vizontele.eu:80/lutfi/27042018/1545
+#EXTINF:-1,US: ID HD
+http://hd.vizontele.eu:80/lutfi/27042018/1557
+#EXTINF:-1,US: IFC HD
+http://hd.vizontele.eu:80/lutfi/27042018/1544
+#EXTINF:-1,US: Investigation Discovery HD
+http://hd.vizontele.eu:80/lutfi/27042018/1564
+#EXTINF:-1,US: Lifetime HD
+http://hd.vizontele.eu:80/lutfi/27042018/1550
+#EXTINF:-1,US: LIFETIME MOVIES HD
+http://hd.vizontele.eu:80/lutfi/27042018/1549
+#EXTINF:-1,US: MLB Network
+http://hd.vizontele.eu:80/lutfi/27042018/1643
+#EXTINF:-1,US: MSNBC HD
+http://hd.vizontele.eu:80/lutfi/27042018/1621
+#EXTINF:-1,US: MTV Base HD
+http://hd.vizontele.eu:80/lutfi/27042018/1542
+#EXTINF:-1,US: MTV HD
+http://hd.vizontele.eu:80/lutfi/27042018/1543
+#EXTINF:-1,US: MTV Rocks
+http://hd.vizontele.eu:80/lutfi/27042018/1541
 
