@@ -209,12 +209,75 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
-#EXTINF:-1,alliptvlinks.com RO: NAT Geo wild
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2381
-#EXTINF:-1,alliptvlinks.com RO: Nat Geo graphic
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2382
+#EXTINF:-1,alliptvlinks.com RO: CINEMAX 2
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2413
+
 #EXTINF:-1,alliptvlinks.com RO: MUSIC CHANNEL
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2383
+
+#EXTINF:-1,alliptvlinks.com RO: FILM NOW
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2442
+
+#EXTINF:-1,alliptvlinks.com RO: HBO 1
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2445
+
+#EXTINF:-1,alliptvlinks.com RO: NICK TOONS
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2457
+
+#EXTINF:-1,alliptvlinks.com RO: Discovery channel
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2482
+
+#EXTINF:-1,alliptvlinks.com RO: Discovery science
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2483
+
+#EXTINF:-1,alliptvlinks.com RO: Disney Channel
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2484
+
+#EXTINF:-1,alliptvlinks.com RO: Discovery ID
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2485
+
+#EXTINF:-1,alliptvlinks.com RO: History Channel
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2486
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| MOVIES ACTION
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67251
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| DISNEY XD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67261
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| STAR MOVIES
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67262
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| STAR WORLD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67263
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| COMEDY CENTRAL HD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67264
+
+#EXTINF:-1,alliptvlinks.com |.OSN.| FOX HD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/67265
+
+#EXTINF:-1,alliptvlinks.com |.EG.| STAR CINEMA 1
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/64332
+
+#EXTINF:-1,alliptvlinks.com |.EG.| STAR CINEMA 2
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/64333
+
+#EXTINF:-1,alliptvlinks.com |.ES.| HOLLYWOOD FHD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/59788
+
+#EXTINF:-1,alliptvlinks.com |.ES.| DISNEY XD HD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/59853
+
+#EXTINF:-1,alliptvlinks.com |.IN.| ZEE BOLLYHOOD HD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/62771
+
+#EXTINF:-1,alliptvlinks.com |.IN.| ZEE TALKIES HD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/62772
+
+#EXTINF:-1,alliptvlinks.com |.DE.| AXN FHD
+http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/70405
+
 
 
 
