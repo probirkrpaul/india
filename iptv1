@@ -209,10 +209,12 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
-#EXTINF:-1,USA | Cartoon Network Pacific
-http://qtvplay.xyz:8080/romeosat/KIgeNmMBeD/457
-
-
+#EXTINF:-1,alliptvlinks.com RO: NAT Geo wild
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2381
+#EXTINF:-1,alliptvlinks.com RO: Nat Geo graphic
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2382
+#EXTINF:-1,alliptvlinks.com RO: MUSIC CHANNEL
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2383
 
 
 
