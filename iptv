@@ -203,46 +203,19 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
 
-#EXTINF:-1,US: ESPN 1
-http://hd.vizontele.eu:80/lutfi/27042018/1651
-#EXTINF:-1,US: ESPN 2 HD
-http://hd.vizontele.eu:80/lutfi/27042018/1650
-#EXTINF:-1,US: ESPN 3 HD
-http://hd.vizontele.eu:80/lutfi/27042018/1649
-#EXTINF:-1,US: Hallmark Channel HD
-http://hd.vizontele.eu:80/lutfi/27042018/1605
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
-http://hd.vizontele.eu:80/lutfi/27042018/1604
-#EXTINF:-1,US: HBO Comedy HD
-http://hd.vizontele.eu:80/lutfi/27042018/1617
-#EXTINF:-1,US: HBO HD
-http://hd.vizontele.eu:80/lutfi/27042018/1618
-#EXTINF:-1,US: HBO Signature
-http://hd.vizontele.eu:80/lutfi/27042018/1616
-#EXTINF:-1,US: HBO Zone HD
-http://hd.vizontele.eu:80/lutfi/27042018/1615
-#EXTINF:-1,US: HGTV FHD
-http://hd.vizontele.eu:80/lutfi/27042018/1560
-#EXTINF:-1,US: HLN HD
-http://hd.vizontele.eu:80/lutfi/27042018/1545
-#EXTINF:-1,US: ID HD
-http://hd.vizontele.eu:80/lutfi/27042018/1557
-#EXTINF:-1,US: IFC HD
-http://hd.vizontele.eu:80/lutfi/27042018/1544
-#EXTINF:-1,US: Investigation Discovery HD
-http://hd.vizontele.eu:80/lutfi/27042018/1564
-#EXTINF:-1,US: Lifetime HD
-http://hd.vizontele.eu:80/lutfi/27042018/1550
-#EXTINF:-1,US: LIFETIME MOVIES HD
-http://hd.vizontele.eu:80/lutfi/27042018/1549
-#EXTINF:-1,US: MLB Network
-http://hd.vizontele.eu:80/lutfi/27042018/1643
-#EXTINF:-1,US: MSNBC HD
-http://hd.vizontele.eu:80/lutfi/27042018/1621
-#EXTINF:-1,US: MTV Base HD
-http://hd.vizontele.eu:80/lutfi/27042018/1542
-#EXTINF:-1,US: MTV HD
-http://hd.vizontele.eu:80/lutfi/27042018/1543
-#EXTINF:-1,US: MTV Rocks
-http://hd.vizontele.eu:80/lutfi/27042018/1541
+#EXTINF:-1,alliptvlinks.com US: ESPN
+http://basic-iptvesun.com:8080/100/100/872
+#EXTINF:-1,alliptvlinks.com US: ESPN 2 HD
+http://basic-iptvesun.com:8080/100/100/5386
+#EXTINF:-1,alliptvlinks.com US: WWE HD
+http://basic-iptvesun.com:8080/100/100/5184
+#EXTINF:-1,alliptvlinks.com HBO   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15574.ts
+#EXTINF:-1,alliptvlinks.com HBO 2   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15575.ts
+#EXTINF:-1,alliptvlinks.com HBO SIGNATURE   (usa)
+http://tv.iptv5latino.cl:8000/live/Angela/1234/15579.ts
+#EXTINF:-1,alliptvlinks.com NBA TV USA
+http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
+
 
