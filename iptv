@@ -86,6 +86,21 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:-1,IN: Star Sports 1 FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42276
+
+#EXTINF:-1,IN: Star Sports 2 FHD
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42273
+
+#EXTINF:-1,IN: StarSports1_Hindi
+http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42282
+
+#EXTINF:-1,IN: Sony Sab
+http://super1.ideaiptv.com:8090/Unplugged/66122/2151
+
+#EXTINF:-1,IN: SONY SAB HD USA
+http://super1.ideaiptv.com:8090/Unplugged/66122/19330
+
 #EXTINF:-1,TLC HD World
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 
@@ -219,28 +234,4 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
 
-#EXTINF:-1,IN: Star Sports 2 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42273
-#EXTINF:-1,IN: Star_Sports_1_Tamil
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42275
-#EXTINF:-1,IN: Star Sports 1 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42276
-#EXTINF:-1,IN: Star Sports Select 2 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42277
-#EXTINF:-1,IN: Star Sports Select 1 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42278
-#EXTINF:-1,IN: Sony Six FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42279
-#EXTINF:-1,IN: Sony Ten 1 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42280
-#EXTINF:-1,IN: Sony Ten 2 FHD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42281
-#EXTINF:-1,IN: StarSports1_Hindi
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42282
 
-#EXTINF:-1,IN: Sony Sab
-http://super1.ideaiptv.com:8090/Unplugged/66122/2151
-#EXTINF:-1,IN: SONY SAB HD USA
-http://super1.ideaiptv.com:8090/Unplugged/66122/19330
-#EXTINF:-1,IN: SONY TV HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/19325
