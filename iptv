@@ -218,3 +218,79 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 #EXTINF:-1,+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (Live)
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
+#EXTINF:0, group-title="Bangla",Sony Aath
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony BBC Earth
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony BBC Earth HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:0, group-title="English",Sony ESPN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0, group-title="English",Sony ESPN HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="English",Sony Le Plex HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max 2
+http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max HD
+http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:0, group-title="English",Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="Hindi",Sony Pal
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:0, group-title="English",Sony Pix
+http://cshms1.airtel.tv/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Rox HD
+http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony TV HD
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Wah
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Yay
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/index.m3u8
+
+#EXTINF:0, group-title="Hindi",Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Star Gold UK
+http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Star Plus
+http://103.205.133.43/hls/starplus.m3u8
+#EXTINF:0, group-title="Hindi",Star Plus HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Star Sports 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+#EXTINF:0, group-title="English",Star Sports 2 HD
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:0, group-title="English",Star Sports 3
+http://50.7.198.170:8081/abcd/starsports3/playlist.m3u8
+
+#EXTINF:0, group-title="Hindi",Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Anmol
+http://mhms9.airtel.tv/wh7f454c46tw1308438910_1818714621/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:0, group-title="Bangla",Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:0, group-title="Bangla",Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="English",Zee Cafe 
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+
+
