@@ -209,84 +209,20 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
-#EXTINF:1, group-title="Hindi",9xM
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/01.m3u8
-#EXTINF:0, group-title="English",9XO
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8
-#EXTINF:0, group-title="Hindi",Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="Hindi",Aaj Tak-2
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:0, group-title="Bangla",Aakaash
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8
-
-#EXTINF:0, group-title="English",AXN
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
-
-#EXTINF:0, group-title="Bangla",CTVN Plus
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/index.m3u8
-
-#EXTINF:0, group-title="Hindi",Enterr 10 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
-
-#EXTINF:0, group-title="Bangla",Kolkatta TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8
-
-#EXTINF:0, group-title="English",Neo Sports
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:0, group-title="Bangla",News Time
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8
-
-#EXTINF:0, group-title="Bangla",Sony Aath
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony BBC Earth
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
-#EXTINF:0, group-title="English",Sony BBC Earth HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/01.m3u8
-#EXTINF:0, group-title="English",Sony ESPN
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8
-#EXTINF:0, group-title="English",Sony ESPN HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:0, group-title="English",Sony Le Plex HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:0, group-title="Hindi",Sony Max
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony Max HD
-http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/01.m3u8|User-Agent=ExoPlayerDemo
-#EXTINF:0, group-title="Hindi",Sony Mix
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony Pal
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8
-#EXTINF:0, group-title="Hindi",Sony Pix
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:0, group-title="Hindi",Sony Rox HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony Sab
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony Sab HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
-#EXTINF:0, group-title="English",Sony Six
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:0, group-title="English",Sony Six HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
-
-#EXTINF:0, group-title="Hindi",Sony TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony TV HD
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
-#EXTINF:0, group-title="Hindi",Sony Wah
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
-#EXTINF:0, group-title="Hindi",Sony Yay
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8
-#EXTINF:0, group-title="English",TLC HD World
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:0, group-title="International",Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:0, group-title="Hindi",Total TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:0, group-title="English",Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:0, group-title="Movies",MOVIES NOW
+#EXTINF:0, group-title="Movies",MOVIES NOW + HD
+#EXTINF:0, group-title="Movies",STAR MOVIES SELECT HD
+#EXTINF:0, group-title="Movies",MOVIES NOW HD
+#EXTINF:0, group-title="Movies",ROMEDY NOW
+#EXTINF:0, group-title="Movies",ROMEDY NOW HD
+#EXTINF:0, group-title="Movies",ZEE STUDIO
+#EXTINF:0, group-title="Movies",ZEE STUDIO HD
+#EXTINF:0, group-title="Movies",WB
+#EXTINF:0, group-title="Movies",STAR MOVIES ACTION
+#EXTINF:0, group-title="Movies",MOVIES NOW 2
+#EXTINF:0, group-title="Movies",MOVIES NOW 2 HD
+#EXTINF:0, group-title="Movies",LEPLEX HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 
 
