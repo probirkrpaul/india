@@ -219,12 +219,13 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1655
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1670
 
 
+#EXTINF:-1,TV6 LV
+http://213.252.252.2/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
 
-#EXTINF:-1,alliptvlinks.com USA | CARTOON NETWORK
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/32692
-#EXTINF:-1,alliptvlinks.com USA | DISNEY CHANNEL
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/32701
-#EXTINF:-1,alliptvlinks.com USA | DISNEY XD
-http://uiptv.dyndns.tv:8000/Germany1/Germany1/22951
-#EXTINF:-1,alliptvlinks.com USA:-----|MOVIES|---------------------------------
-http://mu03.amzlive.net:8880/antest110/98562312/60608
+#EXTINF:-1,Playboy
+http://213.252.252.2/live/eds/Playboy/HLS_encr/Playboy.m3u8
+
+#EXTINF:-1,TV6 LV
+https://213.252.252.2/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+
+http://62.4.21.29:8080/get.php?username=538&password=538&type=m3u
