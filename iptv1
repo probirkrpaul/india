@@ -229,6 +229,42 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
+#EXTINF:-1,[hi] Sony Max
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/132
+#EXTINF:-1,[hi] Sony Mix
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/2567
+#EXTINF:-1,[hi] Sony Sab
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/131
+
+#EXTINF:-1,[hi] Star Gold
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/109
+#EXTINF:-1,[hi] Star Plus
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/119
+
+#EXTINF:-1,[hi] MTV Beats
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/20902
+#EXTINF:-1,[hi] MTV
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/20903
+
+#EXTINF:-1,[hi] TOP MOVIES 1
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21978
+#EXTINF:-1,[hi] TOP MOVIES 2
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21979
+#EXTINF:-1,[hi] TOP MOVIES English
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21980
+#EXTINF:-1,[hi] Movies Active HD
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21981
+
+#EXTINF:-1,[hi] Shemaroo Classic Movies 80
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22016
+#EXTINF:-1,[hi] Shemaroo classics Music 80
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22017
+#EXTINF:-1,[hi] Shemaroo classic 90 Songs
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22018
+
+#EXTINF:-1,[hi] Zee Bangla
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21037
+
 
 
 
