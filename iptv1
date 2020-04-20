@@ -56,9 +56,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3yumcV3.jpg" tvg-country="IN" tvg-url="" group-title="India",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040635.png" tvg-country="IN" tvg-url="" group-title="India",Sony TV
-https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-country="US" tvg-url="" group-title="United States",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
@@ -86,6 +83,9 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:-1, Star Plus
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/119
+
 #EXTINF:-1,IN: Star Sports 1 FHD
 http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42276
 
@@ -109,6 +109,9 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 
 #EXTINF:-1, TEN 2
 http://163.172.85.133:8080/TenS/3/index.m3u8
+
+#EXTINF:-1,Zee Bangla
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21037
 
 #EXTINF:-1,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -229,41 +232,11 @@ http://tv.iptv5latino.cl:8000/live/Angela/1234/1165.ts
 
 testing
 
-#EXTINF:-1,[hi] Sony Max
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/132
-#EXTINF:-1,[hi] Sony Mix
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/2567
-#EXTINF:-1,[hi] Sony Sab
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/131
 
-#EXTINF:-1,[hi] Star Gold
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/109
-#EXTINF:-1,[hi] Star Plus
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/119
-
-#EXTINF:-1,[hi] MTV Beats
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/20902
-#EXTINF:-1,[hi] MTV
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/20903
-
-#EXTINF:-1,[hi] TOP MOVIES 1
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21978
-#EXTINF:-1,[hi] TOP MOVIES 2
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21979
 #EXTINF:-1,[hi] TOP MOVIES English
 http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21980
-#EXTINF:-1,[hi] Movies Active HD
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21981
 
-#EXTINF:-1,[hi] Shemaroo Classic Movies 80
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22016
-#EXTINF:-1,[hi] Shemaroo classics Music 80
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22017
-#EXTINF:-1,[hi] Shemaroo classic 90 Songs
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/22018
 
-#EXTINF:-1,[hi] Zee Bangla
-http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/21037
 
 
 
