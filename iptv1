@@ -77,10 +77,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:-1,StarJalsha.in,STAR JALSHA
-http://108.61.156.252/hls/starjalsa.m3u8
-
 #EXTINF:-1,Star Jalsha
+http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
+
+#EXTINF:-1,Star Jalsha1
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
 #EXTINF:-1,Star Jalsha Movies
